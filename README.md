@@ -106,6 +106,7 @@ Invoice2go has no official MCP server and no official app in ChatGPT or Claude (
 - [Invoice2go on Cotlet.dev](https://cotlet.dev/integrations/invoice2go-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=invoice2go&utm_content=find)
 - [PyPI package invoice2go-mcp](https://pypi.org/project/invoice2go-mcp/)
 - [Odel](https://odel.app/modules/cotlet/invoice2go)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/invoice2go/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-invoice2go-to-ai-agents-guide)
 
 ## Also works with
